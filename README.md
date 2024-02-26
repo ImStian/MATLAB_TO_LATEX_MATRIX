@@ -3,7 +3,7 @@
 ## Overview
 
 This project is a simple tool for converting matrices written in MATLAB-style formatting into LaTeX-friendly syntax. It doesn't require MATLAB itself and is designed for scenarios where you want to take advantage of the concise MATLAB matrix syntax in LaTeX documents.
-> Typing in a matrix in matlab is faster than formating it in latex.
+> Formating a matrix in MATLAB is faster than formating it in LaTeX.
 > – Sun Tzu, *the art of formating*
 
 ## Usage
