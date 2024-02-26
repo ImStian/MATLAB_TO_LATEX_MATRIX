@@ -19,18 +19,18 @@ This project is a simple tool for converting matrices written in MATLAB-style fo
 2. Navigate to the project directory:
 
    ```bash
-   cd matlab-style-to-latex-converter
+   cd MATLAB_TO_LATEX_MATRIX
    ``` 
 
 3. Run the conversion script:
 
    ```bash
-   python convert_to_latex.py
+   python main.py
    ```
 4. **OR** Execute the provided executable file:
 
     ```bash
-    ./convert_to_latex
+    ./latex_matrix_generator.exe
     ``` 
      
 
